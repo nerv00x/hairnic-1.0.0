@@ -427,3 +427,6 @@ img.animated.pulse {
     padding-right: 0;
     border-right: none;
 }
+.margin-bottom{
+    margin-bottom: 50px !important;
+}
