@@ -428,8 +428,12 @@ img.animated.pulse {
     border-right: none;
 }
 .margin-bottom{
-    margin-bottom: 50px !important;
+    margin-bottom: 150px !important;
 }
 .imgCC{
     width: 80px !important;
+}
+.p-color{
+    color: aliceblue;
+    font-size: 18px;
 }
